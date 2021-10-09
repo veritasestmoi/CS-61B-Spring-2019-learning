@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch drawTriangle",
+            "request": "launch",
+            "mainClass": "drawTriangle",
+            "projectName": "CS-61B-Spring-2019-learning_eb14b986"
+        },
+        {
+            "type": "java",
             "name": "Launch NumbersTest",
             "request": "launch",
             "mainClass": "NumbersTest",

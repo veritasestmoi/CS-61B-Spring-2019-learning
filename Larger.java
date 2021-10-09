@@ -6,7 +6,7 @@
 // print(larger(-5,10));
 
 
-public class larger{
+public class Larger{
 
     public static int large(int x, int y){
         if(x>y){
